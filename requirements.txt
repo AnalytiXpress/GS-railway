@@ -1,12 +1,7 @@
-voila==0.5.0
-voila-topbar==0.1.1
+voila==0.4.1
 ipykernel
 pandas
-bokeh
-bqplot
-ipympl==0.9.2
-jupyterlab-fasta
-matplotlib
-scipy
-vega_datasets
-ipyvolume
+numpy
+ipywidgets==8.0.6
+pyperclip
+IPython
